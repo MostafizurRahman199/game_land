@@ -197,3 +197,73 @@ text-transform: uppercase;
 border: none;
 cursor: pointer;
 }
+
+.gamer_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+
+.gamer_image_div{
+    width: 868px;
+height: 489px;
+}
+
+.gamer_content{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 20px;
+}
+
+.gamer_content h3{
+
+    background: linear-gradient(180.00deg, rgb(249, 72, 178),rgb(135, 88, 241));
+    -webkit-background-clip:
+    text;
+    -webkit-text-fill-color:
+    transparent;
+    background-clip:
+    text;
+    text-fill-color:
+    transparent;
+    font-family: Work Sans;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0%;
+    text-align: right;
+
+
+}
+
+.gamer_para{
+    color: rgb(83, 76, 100);
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: right;
+}
+
+.gamer_para_2{
+    color: rgb(83, 76, 100);
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0%;
+text-align: right;
+}
+
+.gamer_heading_2{
+    color: rgb(83, 76, 100);
+font-family: Work Sans;
+font-size: 26px;
+font-weight: 700;
+text-align: right;
+
+
+}
